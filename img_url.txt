@@ -1,0 +1,489 @@
+https://google.com,https://www.google.co.in/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png
+https://youtube.com,//s.ytimg.com/yts/img/yt_1200-vfl4C3T0K.png
+https://google.co.in,https://www.google.co.in/images/nav_logo242.png
+https://facebook.com,https://www.facebook.com/images/fb_icon_325x325.png
+https://wikipedia.org,https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2.png
+https://google.co.jp,https://www.google.co.jp/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png
+https://amazon.com,http://g-ec2.images-amazon.com/images/G/01/social/api-share/amazon_logo_500500._V323939215_.png
+https://qq.com,Error Retrieving
+https://yahoo.com,https://s.yimg.com/dh/ap/default/130909/y_200_a.png
+https://live.com,Error Retrieving
+https://vk.com,None found
+https://instagram.com,https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon-200.png/a0d593d4e9d5.png
+https://taobao.com,https://img.alicdn.com/tps/TB1Bh1KLFXXXXb4XpXXXXXXXXXX-470-246.jpg
+https://baidu.com,Error Retrieving
+https://sohu.com,None found
+https://twitter.com,https://pbs.twimg.com/media/C0dJSojUQAA0wb2.jpg
+https://google.de,https://www.google.de/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png
+https://linkedin.com,None found
+https://reddit.com,https://b.thumbs.redditmedia.com/EZyVUTCKaFnxl_0jwVIVEc3zbRNolrAHzMw4-5VKDPI.jpg
+https://google.co.uk,http://www.google.com/logos/doodles/2016/holidays-2016-day-3-4668988412919808-thp.png
+https://sina.com.cn,http://n.sinaimg.cn/www/20161224/tC2N-fxyyfqs3582549.jpg
+https://google.fr,https://www.google.fr/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png
+https://360.cn,Error Retrieving
+https://weibo.com,None found
+https://google.ru,https://www.google.ru/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png
+https://hao123.com,Error Retrieving
+https://google.com.br,http://www.google.com/logos/doodles/2016/holidays-2016-day-3-southern-hemisphere-5185011929055232-thp.png
+https://yandex.ru,https://yastatic.net/morda-logo/i/share-logo-ru.png
+https://tmall.com,https://img.alicdn.com/tps/TB1eREfLVXXXXaHXFXXXXXXXXXX-480-260.png
+https://bing.com,None found
+https://google.it,https://www.google.it/images/nav_logo242.png
+https://t.co,https://t.co/static/images/bird.png
+https://google.es,https://www.google.es/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png
+https://ebay.com,http://ir.ebaystatic.com/rtm/0/RTMS/Image/2163_IN_eBay_Redirect2IndiaSite_656x402.jpg
+https://msn.com,https://static-hp-eas-s-msn-com.akamaized.net/sc/c6/519670.jpg
+https://wordpress.com,https://0.gravatar.com/blavatar/653166773dc88127bd3afe0b6dfe5ea7?s=200
+https://tumblr.com,https://68.media.tumblr.com/avatar_cc79f9e67965_48.png
+https://aliexpress.com,//i.alicdn.com/ae-header/20150924192652/buyer/common/img/logo-new-1x.png
+https://microsoft.com,https://assets.onestore.ms/cdnfiles/external/uhf/long/9a49a7e9d8e881327e81b9eb43dabc01de70a9bb/images/microsoft-gray.png
+https://blogspot.com,img/social/facebook-1200x630.jpg
+https://onclickads.net,None found
+https://ok.ru,http://st.mycdn.me/res/i/ok_logo.png
+https://google.com.mx,http://www.google.com/logos/doodles/2016/holidays-2016-day-3-4668988412919808-thp.png
+https://imgur.com,http://s.imgur.com/images/logo-1200-630.jpg?2
+https://google.ca,http://www.google.com/logos/doodles/2016/holidays-2016-day-3-4668988412919808-thp.png
+https://google.com.hk,https://www.google.com.hk/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png
+https://stackoverflow.com,https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded
+https://yahoo.co.jp,Error Retrieving
+https://soso.com,Error Retrieving
+https://naver.com,Error Retrieving
+https://netflix.com,https://assets.nflxext.com/ffe/siteui/vlv2/8a2f0aa2-b26e-4c98-ba70-b7542f7be473/bc24b654-ef46-4a44-8d7e-e5f5c8bab694/IN-en-20161219-pophoursaltreverse-perspective_alpha_website_small.jpg
+https://pornhub.com,http://i0.cdn2b.image.pornhub.phncdn.com/pics/pornstars/000/002/228/(m=lciuhScOb_c)thumb_94382.jpg
+https://imdb.com,Error Retrieving
+https://apple.com,https://www.apple.com/ac/structured-data/images/open_graph_logo.png?201612081039
+https://mail.ru,https://limg.imgsmail.ru/splash/v/i/share-fp-f00850a92c.png
+https://amazon.co.jp,https://images-na.ssl-images-amazon.com/images/G/09/gno/sprites/nav-sprite-global_bluebeacon-1x_optimized._CB295618707_.png
+https://google.co.kr,https://www.google.co.kr/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png
+https://github.com,https://assets-cdn.github.com/images/modules/open_graph/github-logo.png
+https://popads.net,None found
+https://google.com.tr,https://www.google.com.tr/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png
+https://office.com,https://officehome.msocdn.com/s/39b6fc28/images/desktop_office.png
+https://pinterest.com,https://s.pinimg.com/images/facebook_share_image.png
+https://paypal.com,https://www.paypalobjects.com/webstatic/icon/pp258.png
+https://google.com.tw,https://www.google.com.tw/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png
+https://google.com.au,https://www.google.com.au/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png
+https://diply.com,https://diply.com/v2/assets/images/ico/apple-touch-icon-210-precomposed.jpg
+https://google.co.id,https://www.google.co.id/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png
+https://amazon.de,https://images-na.ssl-images-amazon.com/images/G/03/gno/sprites/global-sprite_bluebeacon-32-v1._CB295582946_.png
+https://twitch.tv,//www-cdn.jtvnw.net/images/twitch_logo3.jpg
+https://txxx.com,Error Retrieving
+https://amazon.co.uk,https://images-na.ssl-images-amazon.com/images/G/02/gno/sprites/nav-sprite-global_bluebeacon-1x_optimized._CB295582743_.png
+https://wikia.com,http://fandom.wikia.com/wp-content/uploads/2016/01/fandom_default_og_img.png
+https://fc2.com,Error Retrieving
+https://so.com,Error Retrieving
+https://google.pl,https://www.google.pl/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png
+https://coccoc.com,http://coccoc.com/images/ogImage.jpg
+https://pixnet.net,Error Retrieving
+https://adobe.com,None found
+https://xhamster.com,https://static-ec.xhcdn.com/images/snapchat/snapchat-new.png
+https://tianya.cn,Error Retrieving
+https://zhihu.com,None found
+https://googleusercontent.com,Error Retrieving
+https://microsoftonline.com,Error Retrieving
+https://cnzz.com,Error Retrieving
+https://adf.ly,https://adf.ly/static/image/testimonials/monicacorrea_small.jpg
+https://google.com.eg,https://www.google.com.eg/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png
+https://gmw.cn,Error Retrieving
+https://dropbox.com,https://cfl.dropboxstatic.com/static/images/brand/glyph@2x-vflJ1vxbq.png
+https://savefrom.net,Error Retrieving
+https://google.com.sa,https://www.google.com.sa/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png
+https://alibaba.com,None found
+https://whatsapp.com,https://www.cdn.whatsapp.net/img/v4/whatsapp-promo.png
+https://google.co.th,https://www.google.co.th/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png
+https://google.com.ar,https://www.google.com.ar/images/nav_logo242.png
+https://amazon.in,http://g-ec2.images-amazon.com/images/G/31/img14/anywhere/amazon-logo-500500._V327001990_.jpg
+https://ask.com,//about.ask.com/wp-content/uploads/2013/04/Ask-Logo-Medium.jpg
+https://google.com.pk,https://www.google.com.pk/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png
+https://bongacams.com,https://i2.bongacams.com/00e/15f/30c/c1837bdbb2eabd36b2d7927e969b1c48_thumb_medium.jpg
+https://blogger.com,img/social/facebook-1200x630.jpg
+https://bbc.com,http://ichef.bbci.co.uk/wwhp/144/cpsprodpb/7BA4/production/_93125613_michael_pa.jpg
+https://rakuten.co.jp,Error Retrieving
+https://bbc.co.uk,https://ichef.bbci.co.uk/curationkit-ichef/384x216/cpsprodpb/7BA4/production/_93125613_michael_pa.jpg
+https://cnn.com,Error Retrieving
+https://bet365.com,http://www.bet365.com/home/images/landingpage/imgs/col4/bg-casino.jpg
+https://soundcloud.com,None found
+https://ebay.de,http://cdn.roma.ebay.com/assets/2b087235-587f-43b3-95e3-9bc6a090c4f0957468.jpg
+https://dailymotion.com,https://static1-ssl.dmcdn.net/images/dailymotion-logo-ogtag.png.v2779e025da411e7f1
+https://onclkds.com,None found
+https://thepiratebay.org,None found
+https://xvideos.com,None found
+https://clicksgear.com,None found
+https://google.nl,https://www.google.nl/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png
+https://youth.cn,Error Retrieving
+https://ebay.co.uk,http://cdn.roma.ebay.com/assets/f405b1c0-655e-4a78-a3d0-8bf813dde66e173377.jpg
+https://vimeo.com,https://f.vimeocdn.com/images_v6/logo.png
+https://nytimes.com,https://static01.nyt.com/images/icons/t_logo_291_black.png
+https://nicovideo.jp,Error Retrieving
+https://daum.net,Error Retrieving
+https://walmart.com,http://sphotos-b.xx.fbcdn.net/hphotos-ash4/229244_10150189115584236_162217_n.jpg
+https://craigslist.org,Error Retrieving
+https://alipay.com,Error Retrieving
+https://espn.com,Error Retrieving
+https://booking.com,https://r.bstatic.com/static/img/facebook-image-else/566c7081f1deeaca39957e96365c3908f83b95af.jpg
+https://amazonaws.com,Error Retrieving
+https://askcom.me,Error Retrieving
+https://thewhizmarketing.com,Error Retrieving
+https://steampowered.com,Error Retrieving
+https://china.com,Error Retrieving
+https://stackexchange.com,https://cdn.sstatic.net/Sites/wordpress/img/apple-touch-icon.png
+https://uptodown.com,https://stc.utdstc.com/img/logo.png
+https://google.co.ve,http://www.google.com/logos/doodles/2016/holidays-2016-day-3-4668988412919808-thp.png
+https://ettoday.net,Error Retrieving
+https://salesforce.com,https://c1.sfdcstatic.com/content/dam/web/en_us/www/images/nav/einstein-nav-promo-2.jpg
+https://google.co.za,https://www.google.co.za/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png
+https://csdn.net,Error Retrieving
+https://blastingnews.com,http://www.blastingnews.com/images/social/Icon-1200x630.png
+https://onlinesbi.com,Error Retrieving
+https://youku.com,Error Retrieving
+https://quora.com,None found
+https://cnet.com,https://cnet1.cbsistatic.com/fly/bundles/cnetcore/images/logos/cnet-redball-large.jpg
+https://mediafire.com,http://www.mediafire.com/images/logos/mf_logo250x250.png
+https://detik.com,https://uscdn.detik.net.id/detik2/images/logo.jpg
+https://popcash.net,None found
+https://flipkart.com,https://rukminim1.flixcart.com/www/prod/images/flipkart_logo_retina-9fddfff2.png
+https://avito.ru,None found
+https://uol.com.br,https://hp.imguol.com.br/c/home/interacao/facebook/logo-uol.png
+https://jd.com,None found
+https://slideshare.net,http://public.slidesharecdn.com/b/images/meta_share_tile.png?57b7186ee5
+https://globo.com,Error Retrieving
+https://google.gr,https://www.google.gr/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png
+https://tribunnews.com,Error Retrieving
+https://google.com.vn,https://www.google.com.vn/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png
+https://vice.com,https://vice-sundry-assets-cdn.vice.com/sites/web-assets/vice-og.png
+https://spotify.com,http://d2c87l0yth4zbw.global.ssl.fastly.net/i/_global/open-graph-default.png
+https://dailymail.co.uk,Error Retrieving
+https://theguardian.com,https://assets.guim.co.uk/images/2170b16eb045a34f8c79761b203627b4/fallback-logo.png
+https://bestbuy.com,Error Retrieving
+https://detail.tmall.com,Error Retrieving
+https://w3schools.com,Error Retrieving
+https://adexchangeprediction.com,Error Retrieving
+https://amazon.fr,https://images-na.ssl-images-amazon.com/images/G/08/gno/sprites/nav-sprite-global_bluebeacon-1x_optimized._CB281044919_.png
+https://deviantart.com,http://pre13.deviantart.net/792f/th/pre/i/2016/307/c/6/world_of_warcraft___sylvanas_with_arthas_helmet_by_alicestuff-dan77hz.jpg
+https://google.com.co,http://www.google.com/logos/doodles/2016/holidays-2016-day-3-4668988412919808-thp.png
+https://godaddy.com,https://img1.wsimg.com/Sitecore/8/3/og-social-homepage-03-v01.jpg
+https://cctv.com,Error Retrieving
+https://bilibili.com,Error Retrieving
+https://indeed.com,None found
+https://sogou.com,https://www.sogou.com/images/index/erweima.png
+https://wikihow.com,http://pad2.whstatic.com/images/f/f2/Peppermintmocha-hp.jpg
+https://livedoor.jp,Error Retrieving
+https://9gag.com,http://images-cdn.9gag.com/img/9gag-fb-pic.png
+https://redtube.com,Error Retrieving
+https://indiatimes.com,http://staticresources.indiatimes.in/resources/themes/indiatimes_desktop_default/images/fbimage.png
+https://google.be,https://www.google.be/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png
+https://google.com.ph,https://www.google.com.ph/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png
+https://amazon.it,https://images-eu.ssl-images-amazon.com/images/G/29/gno/sprites/nav-sprite-global_bluebeacon-1x_optimized._CB295619417_.png
+https://livejasmin.com,https://staticx3.dditscdn.com/jsm2/site/livejasmin/image/commercial/sonicbox/lp_commercial_16_9-12b13.jpg
+https://google.com.sg,https://www.google.com.sg/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png
+https://google.com.ua,https://www.google.com.ua/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png
+https://blogspot.co.id,https://www.google.co.in/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png
+https://etsy.com,https://img0.etsystatic.com/site-assets/differencemakesus/video/holiday.poster.2020x335.1.jpg
+https://google.se,https://www.google.se/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png
+https://terraclicks.com,None found
+https://outbrain.com,http://www.outbrain.com/images/social/us/homepage-social-1.png
+https://buzzfeed.com,https://webappstatic.buzzfeed.com/static/images/global/buzzfeed.jpg?v=1482434083
+https://iwanttodeliver.com,Error Retrieving
+https://kinogo.club,http://kinogo.club/uploads/konkurs.png
+https://hclips.com,http://static2.gfkey.com/contents/videos_screenshots/958000/958999/220x165/7.jpg
+https://chaturbate.com,https://ssl-ccstatic.highwebmedia.com/images/cb-footer-address.png
+https://xinhuanet.com,Error Retrieving
+https://google.ro,https://www.google.ro/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png
+https://nih.gov,https://www.nih.gov/sites/all/themes/nih/images/nih-logo-color.png
+https://chase.com,https://www.chase.com/etc/designs/chase-ux/css/img/ie_alert.png
+https://upornia.com,https://upornia.com/images/logo.svg
+https://force.com,Error Retrieving
+https://google.cn,Error Retrieving
+https://weebly.com,https://www.weebly.com/editor/uploads/1/_/1/custom_themes/578730180640357361/files/weebly.jpg
+https://people.com.cn,Error Retrieving
+https://mercadolivre.com.br,Error Retrieving
+https://fbcdn.net,Error Retrieving
+https://reimageplus.com,https://cdnrep.reimage.com/website/newwebsite/boxes/stability_os_03_2016.png
+https://softonic.com,https://va1es.sftcdn.net/shared/img/icons/Softonic_logo_icon.png
+https://google.az,https://www.google.az/images/nav_logo242.png
+https://google.at,https://www.google.at/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png
+https://offerreality.com,Error Retrieving
+https://gfycat.com,https://gfycat.com/images/logo-300x300.png
+https://chinadaily.com.cn,Error Retrieving
+https://123movies.is,http://123movies.gs/assets/images/fb-capture.png
+https://weather.com,https://s.w-x.co/240x180_twc_default.png
+https://tistory.com,https://t1.daumcdn.net/cssjs/icon/557567EA016E200001
+https://theladbible.com,http://20.theladbiblegroup.com/s3/content/353x199/111f235458596a6ac38b0489275d5e91.jpg
+https://bp.blogspot.com,Error Retrieving
+https://doublepimp.com,https://doublepimp.com/img/phn.logo.png
+https://github.io,https://pages.github.com/images/ghfm@2x.png
+https://doubleclick.net,https://storage.googleapis.com/doubleclick-prod/images/offset_comp_391951..landscape-1350x700.jpg
+https://pinimg.com,https://s.pinimg.com/images/facebook_share_image.png
+https://roblox.com,https://images.rbxcdn.com/fb70fd2b56107a0d43f2f98658885702.jpg
+https://washingtonpost.com,https://images.washingtonpost.com/?url=https://img.washingtonpost.com/pb/resources/img/twp-3000x1568.jpg&w=1484&op=resize&opt=1&filter=antialias
+https://ameblo.jp,Error Retrieving
+https://google.com.pe,https://www.google.com.pe/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png
+https://google.com.ng,https://www.google.com.ng/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png
+https://youporn.com,http://i1.cdn2a.image.pornhub.phncdn.com//m=eQdwbgaaaa/pics/pornstars/000/055/112/thumb_48631.jpg
+https://mozilla.org,https://www.mozilla.org/media/img/home/page-image.3af4522ff5e7.png
+https://google.ch,https://www.google.ch/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png
+https://google.cz,https://www.google.cz/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png
+https://daikynguyenvn.com,/wp-content/uploads/2015/01/banner1.jpg
+https://target.com,Error Retrieving
+https://allegro.pl,http://cdn.allegrostatic.com/m-brands/allegro-e4f5c821.svg
+https://spotscenered.info,Error Retrieving
+https://openload.co,https://openload.co/assets/img/logo.png
+https://putlockers.ch,http://image4.putlockers.ch/images/mainlogo.jpg
+https://huffingtonpost.com,Error Retrieving
+https://slack.com,https://slack.com/img/slack_hash_128.v1464126652.png
+https://163.com,http://img1.cache.netease.com/house/2016/9/21/20160921144307c461f.jpg
+https://livejournal.com,None found
+https://trello.com,https://d2k1ftgv7pobq7.cloudfront.net/meta/p/res/images/fb4de993e22034b76539da073ea8d35c/home-hero.png
+https://douyu.com,Error Retrieving
+https://forbes.com,None found
+https://wordreference.com,Error Retrieving
+https://onclickpredictiv.com,Error Retrieving
+https://blogspot.in,https://www.google.co.in/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png
+https://youm7.com,http://img.youm7.com/images/graphics/youm7facebooksharelast.jpg
+https://google.cl,https://www.google.cl/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png
+https://cnblogs.com,Error Retrieving
+https://google.ae,https://www.google.ae/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png
+https://bankofamerica.com,https://www.bankofamerica.com/content/images/ContextualSiteGraphics/Marketing/Highlights/en_US/column1Dec.jpg
+https://reddituploads.com,Error Retrieving
+https://amazon.es,https://images-na.ssl-images-amazon.com/images/G/30/gno/sprites/global-sprite_bluebeacon-32-v1._CB295619365_.png
+https://wordpress.org,https://wpdotorg.files.wordpress.com/2015/10/gray-tshirt-swag.jpg
+https://varzesh3.com,Error Retrieving
+https://myway.com,Error Retrieving
+https://haosou.com,Error Retrieving
+https://thewhizproducts.com,Error Retrieving
+https://google.dz,https://www.google.dz/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png
+https://tokopedia.com,https://ecs7.tokopedia.net/img/og_tokopedia.jpg
+https://rutracker.org,Error Retrieving
+https://google.pt,http://www.google.com/logos/doodles/2016/holidays-2016-day-3-4668988412919808-thp.png
+https://rambler.ru,https://h03.rl0.ru/3.22.98/i/og/main.png
+https://thesaurus.com,Error Retrieving
+https://wittyfeed.com,https://cdn.wittyfeed.com/assets/images/wittyfeed.jpg
+https://skype.com,https://secure.skypeassets.com/i/common/images/icons/skype-logo-open-graph.png
+https://goo.ne.jp,Error Retrieving
+https://naver.jp,Error Retrieving
+https://google.co.ao,https://www.google.co.ao/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png
+https://gearbest.com,Error Retrieving
+https://china.com.cn,Error Retrieving
+https://files.wordpress.com,https://0.gravatar.com/blavatar/653166773dc88127bd3afe0b6dfe5ea7?s=200
+https://mailchimp.com,https://static.mailchimp.com/web/social/freddie.png
+https://360.com,Error Retrieving
+https://sourceforge.net,https://a.fsdn.com/con/img/project_default.png
+https://twimg.com,Error Retrieving
+https://breitbart.com,Error Retrieving
+https://giphy.com,https://giphy.com/static/img/giphy_logo_square_social.png
+https://extratorrent.cc,Error Retrieving
+https://wellsfargo.com,https://www20.wellsfargomedia.com/assets/images/contextual/banner/checking/617x260/wfia604_ph_vokp0004207_617x260.jpg
+https://steamcommunity.com,https://steamcommunity-a.akamaihd.net/public/shared/images/responsive/share_steam_logo.png
+https://google.no,https://www.google.no/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png
+https://aol.com,Error Retrieving
+https://abs-cbn.com,http://sa.kapamilya.com/entertainment/abs-cbnent/media/home/entertainment_ogimage.jpg
+https://rt.com,https://www.rt.com/static/img/og-logo-rt.png
+https://scribd.com,None found
+https://foxnews.com,Error Retrieving
+https://youtube-mp3.org,None found
+https://sabah.com.tr,Error Retrieving
+https://rarbg.to,https://dyncdn.me/static/20/img/logo_dark_nodomain2_optimized.png
+https://irctc.co.in,https://www.irctc.co.in/eticketing/resources/images/launch_icon_en_IN.png
+https://wikimedia.org,https://www.wikimedia.org/static/images/project-logos/wikivoyage.png
+https://shutterstock.com,https://ak.picdn.net/assets/cms/053c8963010550fe509f41495ce25be0a0275bb0-e-lohp-1.jpg
+https://onedio.com,https://img-s1.onedio.com/id-58602fb1272e2a227a0d8824/rev-1/w-460/h-290/o-50x16/f-jpg/s-64e86c55fc7845ee876bec22ea2132869d95c570.jpg
+https://ikea.com,Error Retrieving
+https://archive.org,https://archive.org/images/internet-archive-banner-logo.png
+https://blogspot.com.br,Error Retrieving
+https://liputan6.com,http://cdn0-a.production.images.static6.com/BpYMSg1YXeAotDbjfq-rRGsNhBM=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/liputan6-media-production/medias/1440489/original/096836100_1482205644-20161220-Sidang-Ahok-di-PN-Jakut-Pool-4.jpg
+https://xnxx.com,Error Retrieving
+https://google.hu,https://www.google.hu/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png
+https://zippyshare.com,http://zippyshare.com/images/logo.png
+https://pandora.com,None found
+https://taringa.net,https://t3.kn3.net/taringa/F/2/6/3/C/0/JulianMartinez_/92x70_DE3.jpg
+https://paytm.com,https://assetscdn.paytm.com/images/catalog/view_item/92736/1482494713818.jpg
+https://1688.com,https://cbu01.alicdn.com/cms/upload/2015/681/894/2498186_1666677412.jpg
+https://yelp.com,https://s3-media3.fl.yelpcdn.com/assets/srv0/seo_metadata/f9149736ad8d/assets/img/logos/yelp_og_image.png
+https://snapdeal.com,Error Retrieving
+https://kinopoisk.ru,https://st.kp.yandex.net/images/bnnr/11a97a54.jpg
+https://freepik.com,Error Retrieving
+https://leboncoin.fr,Error Retrieving
+https://amazon.cn,https://images-cn.ssl-images-amazon.com/images/G/28/kindle/design/2016/device/xmas/ys_161222_ATF1500300_xmas_device._CB522932933_.jpg
+https://kakaku.com,Error Retrieving
+https://wetransfer.com,https://cdn.wetransfer.net/assets/wt-facebook-568be8def5a86a09cedeb21b8f24cb208e86515a552bd07d856c7d5dfc6a23df.png
+https://sberbank.ru,http://sberbank.ru/common/img/uploaded/social-logo-200x200-en.jpg
+https://huanqiu.com,Error Retrieving
+https://feedly.com,http://s3.feedly.com/img/feedly-512.png
+https://instructure.com,https://www.instructure.com/img/logo.png
+https://google.co.il,https://www.google.co.il/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png
+https://taboola.com,https://www.taboola.com/sites/default/files/logo-blue.png
+https://web.de,https://i0.web.de/image/252/32086252,pd=5,h=250,w=480.jpg
+https://ups.com,Error Retrieving
+https://google.ie,http://www.google.com/logos/doodles/2016/holidays-2016-day-3-4668988412919808-thp.png
+https://espncricinfo.com,Error Retrieving
+https://kompas.com,Error Retrieving
+https://bukalapak.com,https://www.bukalapak.com/images/img_bnr/social_v2.jpg
+https://yesky.com,Error Retrieving
+https://yts.ag,https://yts.ag/assets/images/website/og_yts_logo.png
+https://codeonclick.com,Error Retrieving
+https://hatenablog.com,Error Retrieving
+https://goodreads.com,https://s.gr-assets.com/assets/icons/goodreads_icon_1000x1000-aed808dec2093e20867b35cd56d9862d.png
+https://gmx.net,https://i0.gmx.net/image/252/32086252,pd=5,h=250,w=480.jpg
+https://asos.com,Error Retrieving
+https://ebay-kleinanzeigen.de,/static/img/common/logo/logo-ebay-kleinanzeigen-75x75.18lqxe8sun7lb.png
+https://tudou.com,Error Retrieving
+https://amazon.ca,https://images-na.ssl-images-amazon.com/images/G/15/gno/sprites/global-sprite_bluebeacon-32-v1._CB295619449_.png
+https://themeforest.net,//public-assets.envato-static.com/images/logos/marketplaces/200px/ThemeForest.png
+https://4dsply.com,Error Retrieving
+https://digikala.com,Error Retrieving
+https://businessinsider.com,http://www.businessinsider.in/photo/56166725/Save-Rs-25000-on-your-next-foreign-trip-by-takingthis-airlines.jpg
+https://hp.com,Error Retrieving
+https://tripadvisor.com,https://static.tacdn.com/img2/branding/TA_550x370.png
+https://samsung.com,Error Retrieving
+https://dictionary.com,Error Retrieving
+https://google.dk,https://www.google.dk/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png
+https://oracle.com,None found
+https://nametests.com,https://image.nametests.com/cache/images/quiz_img/2016/12/23/fd49b5d73ebee03f4686afeff1cf570f/0656e0614a5d17157f4e4becd7e6d28e.jpg
+https://poptm.com,https://static.poptm.com/image/fav_big.png
+https://avg.com,Error Retrieving
+https://evernote.com,https://cdn1.evernote.com/evernote.com/img/social-meta/Homepage.jpg
+https://kaskus.co.id,https://i.kaskus.id/e3.1/images/sundul-italia.png
+https://macys.com,Error Retrieving
+https://webtretho.com,Error Retrieving
+https://qiita.com,https://cdn.qiita.com/assets/qiita-fb-2887e7b4aad86fd8c25cea84846f2236.png
+https://ltn.com.tw,Error Retrieving
+https://dmm.co.jp,Error Retrieving
+https://rolloid.net,http://rolloid.net/wp-content/uploads/2016/12/falda-324x160.jpg
+https://seasonvar.ru,Error Retrieving
+https://zillow.com,None found
+https://google.com.bd,https://www.google.com.bd/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png
+https://iqiyi.com,Error Retrieving
+https://subscene.com,https://i.jeded.com/i/solomons-perjury.135-61904.jpg
+https://messenger.com,https://static.xx.fbcdn.net/rsrc.php/v3/y8/r/R_1BAhxMP5I.png
+https://hotstar.com,Error Retrieving
+https://google.fi,https://www.google.fi/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png
+https://onet.pl,http://ocdn.eu/images/pulscms/ZGU7MDA_/e75ea8ae3037b17ac3d478ffa5e593f1.png
+https://baike.com,Error Retrieving
+https://torrentz2.eu,None found
+https://battle.net,http://media.blizzard.com/battle.net/logos/og-root.png
+https://hatena.ne.jp,https://cdn-ak.f.st-hatena.com/images/fotolife/h/hagane-mk/20161225/20161225002812.jpg
+https://ruten.com.tw,Error Retrieving
+https://douban.com,https://img5.doubanio.com/img/files/file-1431585796.jpg
+https://utorrent.com,http://www.utorrent.com/images/interface/utorrentLogoRetina.png
+https://flickr.com,https://farm4.staticflickr.com/3914/15118079089_489aa62638_b.jpg
+https://mysagagame.com,Error Retrieving
+https://orange.fr,http://hp4.b.woopic.com/magic/icons/Nouvelle-Live-box-internet-adsl-fibre.png
+https://mit.edu,http://web.mit.edu/img/MIT_logo.gif
+https://lifebuzz.com,http://www.lifebuzz.com/static/og-default.png
+https://blog.jp,Error Retrieving
+https://speedtest.net,http://c.speedtest.net/images/share-logo.png
+https://repubblica.it,Error Retrieving
+https://ndtv.com,Error Retrieving
+https://usps.com,Error Retrieving
+https://icloud.com,https://www.icloud.com/icloud_logo/icloud_logo.png
+https://media.tumblr.com,Error Retrieving
+https://2ch.net,None found
+https://providr.com,Error Retrieving
+https://spankbang.com,http:http://spankbang.com/static_desktop/Images/logo_header.png
+https://weblio.jp,Error Retrieving
+https://hdfcbank.com,http://www.hdfcbank.com/assets/images/impmessageclose.png
+https://google.sk,https://www.google.sk/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png
+https://ebay.it,http://cdn.roma.ebay.com/assets/0403d6b5-2a3d-4740-9f5b-e028bfb535f060448.jpg
+https://groupon.com,None found
+https://sciencedirect.com,None found
+https://gsmarena.com,Error Retrieving
+https://newpoptab.com,Error Retrieving
+https://gismeteo.ru,https://www.gismeteo.ru/static/news/img/anno/22121/165_1abba298.jpg
+https://directrev.com,Error Retrieving
+https://shopify.com,https://cdn.shopify.com/assets2/global/share-image-generic-d2563f395d49fb044880feba53ab22b1a7d01fe62c7943a397e58f69f60fa206.png
+https://sh.st,https://static.shorte.st/bundles/smeweb/img/shortest-gfx.png?2016-12-21.0
+https://accuweather.com,Error Retrieving
+https://ablogica.com,Error Retrieving
+https://adidas.tmall.com,Error Retrieving
+https://researchgate.net,https://c5.rgstatic.net/m/233656684592444/images/template/brand-header-logo.png
+https://homedepot.com,Error Retrieving
+https://wix.com,http://static.parastorage.com/services/wix-homepage-davinci/1.163.0/images/header.jpg
+https://zendesk.com,https://d16cvnquvjw7pr.cloudfront.net/images/blog/zendesk-default-placeholder.jpg
+https://ouo.io,http://cdn.ouo.io/images/landing/people/profile-s-1.png
+https://dell.com,http://i.dell.com/images/global/brand/ui/logo-wt-bl.png
+https://mixplugin.com,Error Retrieving
+https://hilltopads.net,None found
+https://free.fr,None found
+https://adnetworkperformance.com,Error Retrieving
+https://wixsite.com,Error Retrieving
+https://gamepedia.com,Error Retrieving
+https://watsons.tmall.com,Error Retrieving
+https://cloudfront.net,Error Retrieving
+https://redirectvoluum.com,Error Retrieving
+https://blogspot.jp,https://www.google.co.in/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png
+https://zol.com.cn,Error Retrieving
+https://fiverr.com,https://assetsv2.fiverrcdn.com/assets/v2_globals/fiverr-logo-new-green-9e65bddddfd33dfcf7e06fc1e51a5bc5.png
+https://chaoshi.tmall.com,Error Retrieving
+https://4shared.com,https://www.4shared.com/images/social/general.png
+https://americanexpress.com,None found
+https://go.com,Error Retrieving
+https://youdao.com,http://shared.ydstatic.com/dict/v2016/logo.png
+https://nfl.com,http://i.nflcdn.com/static/content/public/static/img/share/shield.jpg
+https://wp.pl,https://a.wpimg.pl/a/f/png/37220/wpogimage.png
+https://kohls.com,None found
+https://adexc.net,Error Retrieving
+https://dingit.tv,//www.dingit.tv/v2-assets/images/d_logo_preview.png
+https://eastday.com,https://eastday.com/images/thumbnailimg/month_1612/201612241536326336.jpg
+https://tube8.com,http://cdn1e.image.tube8.phncdn.com/201612/18/34036151/originals/11(m=eqw4mgaaaa).jpg
+https://icicibank.com,https://www.icicibank.com/managed-assets/images/personal/home-page-banners/Desktop/christmas-expression-dc-D.jpg
+https://spiegel.de,http://cdn2.spiegel.de/images/image-1088711-860_poster_16x9-vfey-1088711.jpg
+https://blackboard.com,http://anz.blackboard.com/Images/anz/en/blackboard-corporate-logo_tcm48-12923.png
+https://telegraph.co.uk,Error Retrieving
+https://fedex.com,Error Retrieving
+https://beeg.com,None found
+https://behance.net,None found
+https://haber7.com,Error Retrieving
+https://ign.com,Error Retrieving
+https://newegg.com,http://images10.newegg.com/WebResource/Themes/2005/Nest/logo_424x210.png
+https://4chan.org,http://img.2ch.sc/img/1482462331158.png
+https://exoclick.com,https://www.exoclick.com/wp-content/themes/exoclick/images/why-bg.jpg
+https://tradeadexchange.com,Error Retrieving
+https://leagueoflegends.com,http://na.leagueoflegends.com/sites/default/files/upload/promo-cards/promo-card-download-en.jpg
+https://azlyrics.com,Error Retrieving
+https://xfinity.com,https://www.xfinity.com//cdn.comcast.com/~/Media/Common/GlobalNavigation/images/XFINITY_r
+https://medium.com,https://cdn-images-1.medium.com/max/1200/1*MXL-j6S8fTEd8UFP_foEEw.png
+https://bloomberg.com,https://assets.bwbx.io/business/public/images/social_fallbacks/bloomberg_default-a4f15fa7ee.jpg
+https://ensonhaber.com,Error Retrieving
+https://teepr.com,http://www.teepr.com/wp-content/themes/truepixel/images/top-header-logo.png
+https://mercadolibre.com.ar,Error Retrieving
+https://blogfa.com,https://blogfa.com/static/images/winter-1.jpg
+https://elbalad.news,http://www.elbalad.news/upload/photo/news/255/0/400x225o/951.jpg
+https://telegram.org,https://telegram.org/img/t_logo.png
+https://babytree.com,http://pic08.babytreeimg.com/common_photo/original/2016/1205/Fg7gZB1kSjD5J9Jx5ipX6FKJ1moj_b.jpg
+https://thefreedictionary.com,http://img.tfd.com/TFDlogo1200x1200.png
+https://gamefaqs.com,None found
+https://tutorialspoint.com,Error Retrieving
+https://perfecttoolmedia.com,Error Retrieving
+https://hola.com,Error Retrieving
+https://ebay.com.au,http://ir.ebaystatic.com/rtm/15/RTMS/Image/20161224_TGGBoxingDay_MFBB_656x402_OnNow..jpg
+https://aliyun.com,https://img.alicdn.com/tps/TB1A1OBOFXXXXbdXFXXXXXXXXXX-1600-1120.png
+https://kooora.com,Error Retrieving
+https://ozock.com,https://ozock.com/wp-content/themes/braxton/custhome/images/ozock-logo-1.png
+https://google.kz,https://www.google.kz/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png
+https://marca.com,Error Retrieving
+https://prezi.com,https://prezi-a.akamaihd.net/cover-versioned/919-20f8f40ade4f00d5f00d2bb3259022ac56f2cd99/cover/img/business_core_split/og_image_cover.jpg
+https://aparat.com,http://www.aparat.com/public/public/images/logo/v2/aparat_logo_fa_color_black_275x100.png
+https://scribol.com,Error Retrieving
+https://playstation.com,https://psmedia.playstation.com/is/image/psmedia/PS-generic-listing-thumb?$Icon$
+https://seznam.cz,/media/img/logo-share-square_v2.png
+https://cricbuzz.com,Error Retrieving
+https://blogspot.mx,https://www.google.co.in/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png
+https://wsj.com,Error Retrieving
+https://ask.fm,http://ask.fm/assets/logo-preview-175bc686408cecd30265ba2d1648a7738f227ed456e74db982de50bb378c08db.png
+https://elpais.com,Error Retrieving
+https://quizlet.com,https://quizlet.com/a/i/brandmark/1024.z7Pw.png
+https://onlinevideoconverter.com,//www.onlinevideoconverter.com/assets/images/meta/siteImage.png
+https://vk.me,None found
+https://shink.in,http://www.airtel.in/dot/images/wynkmovies-icon.png
+https://filehippo.com,Error Retrieving
+https://billdesk.com,https://billdesk.com/images/face.jpg
+https://capitalone.com,https://www.capitalone.com/assets/compass/_blocks/header-footer/public/capitalone-logo-2x-oasis.png
+https://list-manage.com,Error Retrieving
+https://upwork.com,https://assets.static-upwork.com/marketing/ui/master/img/logo-1200x630.png
+https://lazada.co.id,https://id-live-g-03.slatic.net/images/logo-og-id.jpg
+https://nike.com,http://content.nike.com/content/dam/one-nike/globalAssets/social_media_images/nike_swoosh_logo_black.png 
+https://hurriyet.com.tr,http://s.hurriyet.com.tr/static/images/hurriyet/share-img.jpg
+https://atlassian.net,https://wac-cdn.atlassian.com/dam/jcr:c20cf6d1-9568-4aba-9a16-dba24e1495de/atlassian-software.png
+https://google.com.kw,https://www.google.com.kw/images/nav_logo242.png
+https://ab4hr.com,Error Retrieving
+https://kickstarter.com,https://static.kickstarter.com/assets/site/social/ksr-hp-social-18363a83c0f7fd57f54e27802166cb673e74accbf4a7e0e0018875f7fb16f2fe.png
