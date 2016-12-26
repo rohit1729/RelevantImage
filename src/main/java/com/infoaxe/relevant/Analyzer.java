@@ -15,6 +15,8 @@ import java.util.concurrent.Callable;
 public class Analyzer implements Callable<Boolean> {
 private int max_area;
 private int max_depth;
+private int min_depth;
+private int min_area;
     private WebDocument document;
     public Analyzer(WebDocument document){
         this.document = document;
@@ -29,11 +31,20 @@ private int max_depth;
                     initialze(image.getArea(), image.getDepth());
                     continue;
                 }
-                if (image.getDepth() > this.max_depth) this.max_depth = image.getDepth();
-                if (image.getArea() > this.max_area) this.max_area = image.getArea();
+                if (image.getDepth() > this.max_depth) {
+                    this.max_depth = image.getDepth();
+                }else if(image.getDepth() < this.min_depth) {
+                    this.min_depth = image.getDepth();
+                }
+
+                if (image.getArea() > this.max_area) {
+                    this.max_area = image.getArea();
+                }else if(image.getArea() < this.min_area){
+                    this.min_area = image.getArea();
+                }
             }
             for (Image i : document.getImages()){
-                i.setScore(this.max_area,this.max_depth);
+                i.setScore(this.max_area,this.max_depth,this.min_depth,this.min_area);
             }
             Collections.sort(document.getImages());
             document.setRelevantImage(document.getImages().get(0).getUrl().toString());
@@ -50,6 +61,8 @@ private int max_depth;
     public void initialze(int area, int depth){
         this.max_area = area;
         this.max_depth = depth;
+        this.min_depth= depth;
+        this.max_area = area;
     }
 
 }

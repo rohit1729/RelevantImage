@@ -22,7 +22,7 @@ public class Image implements Comparable<Image>{
     private float score;
     private int area;
     private float[] weights = {0.35f,0.4f,0.25f};
-    private float squared = 0.0f;
+    private float squared = 0.00f;
     static {
         bannerSizes.put(468,60);
         bannerSizes.put(728,90);
@@ -32,7 +32,7 @@ public class Image implements Comparable<Image>{
 
     private void setSquared() {
         if (height == 0 || width == 0) return;
-        this.squared = Math.min(this.getDepth(),this.getHeight())/Math.max(this.getDepth(),this.getHeight());
+        this.squared = (float) Math.min(this.getWidth(),this.getHeight())/Math.max(this.getWidth(),this.getHeight());
     }
 
     private void setArea() {
@@ -47,12 +47,13 @@ public class Image implements Comparable<Image>{
         this.score = score;
     }
 
-    public void setScore(int max_area,int max_depth){
+    public void setScore(int max_area,int max_depth,int min_depth, int min_area){
         if (isBanner || getArea() == 0) {
             score = 0.0f;
             return;
         }
-        this.score =weights[0] * squared + weights[1] * (max_depth-depth)/max_depth + weights[2] * (area/max_area);
+        this.score = (weights[0] * squared) + (weights[1] * (max_depth-depth)/(max_depth-min_depth)) + (weights[2] * (area-min_area)/(max_area-min_area));
+        RelevantLogger.log("image: "+this.getUrl().toString()+"score :"+String.valueOf(this.score));
     }
 
 
