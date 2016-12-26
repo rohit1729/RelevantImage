@@ -2,6 +2,7 @@ package com.infoaxe.network;
 
 import com.infoaxe.model.Image;
 import com.infoaxe.model.RelevantLogger;
+import com.infoaxe.model.RelevantThread;
 import com.infoaxe.model.WebDocument;
 import com.infoaxe.relevant.Analyzer;
 import com.infoaxe.relevant.FindRelevant;
@@ -10,13 +11,15 @@ import javax.imageio.IIOException;
 import javax.imageio.ImageIO;
 import java.awt.image.BufferedImage;
 import java.io.IOException;
+import java.net.SocketTimeoutException;
 import java.net.URL;
 import java.util.concurrent.Callable;
 
 /**
  * Created by rohitgupta on 12/24/16.
  */
-public class ImageGrabber implements Callable<Boolean> {
+public class ImageGrabber implements Runnable {
+
     private Image image;
     private BufferedImage bufferedImage;
     private WebDocument document;
@@ -28,21 +31,26 @@ public class ImageGrabber implements Callable<Boolean> {
     }
 
     @Override
-    public Boolean call() throws Exception {
-        while (retries <= 3){
-            Boolean download = downloadImage();
-            if (download){
-                return true;
-            } else {
-                if (retries == 3) {
-                    imagesfinished = document.getImageTried().incrementAndGet();
-                    startAnalyzerThread(imagesfinished);
-                    return false;
+    public void run() {
+        try{
+            ((RelevantThread) Thread.currentThread()).setDocument(document);
+            while (retries < 3){
+                Boolean download = downloadImage();
+                if (download){
+                    return;
+                } else {
+                    if (retries == 3) {
+                        imagesfinished = document.getImageTried().incrementAndGet();
+                        startAnalyzerThread(imagesfinished);
+                        return;
+                    }
                 }
             }
+        }catch (Exception e){
+            Thread.currentThread().getUncaughtExceptionHandler().uncaughtException(Thread.currentThread(),e);
         }
-        return false;
     }
+
 
     public Boolean downloadImage(){
         try{
@@ -62,6 +70,7 @@ public class ImageGrabber implements Callable<Boolean> {
         }catch (IOException e){
             e.printStackTrace();
             RelevantLogger.log("Exception thrown ImageGrabber");
+            if (!(e instanceof SocketTimeoutException)) retries = 3;
             return false;
         }
     }
@@ -70,6 +79,10 @@ public class ImageGrabber implements Callable<Boolean> {
         if(imagesfinished == document.getImages().size()){
             FindRelevant.imageDownloadExecutor.submit(new Analyzer(document));
         }
+    }
+
+    public WebDocument getDocument() {
+        return document;
     }
 }
 

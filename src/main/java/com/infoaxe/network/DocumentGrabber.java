@@ -1,44 +1,46 @@
 package com.infoaxe.network;
 
-import com.infoaxe.model.Image;
-import com.infoaxe.model.RelevantLogger;
-import com.infoaxe.model.UrlImagePair;
-import com.infoaxe.model.WebDocument;
+import com.infoaxe.model.*;
 import com.infoaxe.relevant.Analyzer;
 import com.infoaxe.relevant.FindRelevant;
 import org.jsoup.Connection;
 import org.jsoup.Jsoup;
-import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import java.io.IOException;
-import java.util.concurrent.Callable;
+import java.net.SocketTimeoutException;
 
 /**
  * Created by rohitgupta on 12/24/16.
  */
-public class DocumentGrabber implements Callable<WebDocument>{
+public class DocumentGrabber implements Runnable{
+
     private WebDocument document;
     private int retries;
+    private static String type = "document";
     public DocumentGrabber(WebDocument document){
         this.document = document;
     }
 
     @Override
-    public WebDocument call() throws IOException {
-        WebDocument downloadDocument;
-        while (retries <= 3){
-            downloadDocument = download(document);
-            if (downloadDocument !=null) return downloadDocument;
-            else if (retries == 3){
-                document.setRelevantImage("Error Retrieving");
-                UrlImagePair urlImagePair  = new UrlImagePair(document.getUrl().toString(),document.getRelevantImageUrl());
-                FindRelevant.relevantImageUrls.add(urlImagePair);
-                return null;
+    public void run() {
+        try{
+            ((RelevantThread) Thread.currentThread()).setDocument(document);
+            WebDocument downloadDocument;
+            while (retries < 3){
+                downloadDocument = download(document);
+                if (downloadDocument !=null) return;
+                else if (retries == 3){
+                    document.setRelevantImage("Error Retrieving");
+                    UrlImagePair urlImagePair  = new UrlImagePair(document.getUrl().toString(),document.getRelevantImageUrl());
+                    FindRelevant.relevantImageUrls.add(urlImagePair);
+                }
             }
         }
-        return null;
+        catch (Exception e){
+            Thread.currentThread().getUncaughtExceptionHandler().uncaughtException(Thread.currentThread(),e);
+        }
     }
 
     private WebDocument download(WebDocument document){
@@ -84,6 +86,7 @@ public class DocumentGrabber implements Callable<WebDocument>{
             return document;
         }catch (IOException e){
             e.printStackTrace();
+            if (!(e instanceof SocketTimeoutException)) retries =3;
             return null;
         }
     }
@@ -98,5 +101,9 @@ public class DocumentGrabber implements Callable<WebDocument>{
             }
         }
         return false;
+    }
+
+    public WebDocument getDocument() {
+        return document;
     }
 }

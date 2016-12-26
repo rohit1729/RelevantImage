@@ -1,7 +1,5 @@
 package com.infoaxe.relevant;
-import com.infoaxe.model.RelevantLogger;
-import com.infoaxe.model.UrlImagePair;
-import com.infoaxe.model.WebDocument;
+import com.infoaxe.model.*;
 import com.infoaxe.network.DocumentGrabber;
 import org.apache.commons.validator.routines.UrlValidator;
 
@@ -26,8 +24,8 @@ public class FindRelevant {
     public static void main(String[] args)
     {
         ParseUrlFile();
-        threadPoolExecuter = new ThreadPoolExecutor(5,8,1000, TimeUnit.MILLISECONDS,new LinkedBlockingQueue<Runnable>());
-        imageDownloadExecutor = new ThreadPoolExecutor(10,15,1000,TimeUnit.MILLISECONDS, new LinkedBlockingQueue<Runnable>());
+        threadPoolExecuter = new ThreadPoolExecutor(5,8,1000, TimeUnit.MILLISECONDS,new LinkedBlockingQueue<Runnable>(), new DocumentThreadFactory());
+        imageDownloadExecutor = new ThreadPoolExecutor(10,15,1000,TimeUnit.MILLISECONDS, new LinkedBlockingQueue<Runnable>(), new ImageThreadFactory());
         for (String url : urls){
             try {
                 WebDocument webDocument = new WebDocument(new URL(url));

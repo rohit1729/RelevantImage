@@ -42,4 +42,8 @@ public class RelevantLogger {
     public static void documentQueueLog(int retries, String url){
         mLogger.info("Queuing document download "+retries+" :"+url);
     }
+
+    public static void unhandledException(String message){
+        mLogger.warning(message);
+    }
 }
