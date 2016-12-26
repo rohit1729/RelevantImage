@@ -1,10 +1,7 @@
 package com.infoaxe.model;
 
 import java.net.URL;
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.Iterator;
+import java.util.*;
 
 /**
  * Created by rohitgupta on 12/24/16.
@@ -51,7 +48,6 @@ public class Image implements Comparable<Image>{
             return;
         }
         this.score = (weights[0] * squared) + (weights[1] * (max_depth-depth)/(max_depth-min_depth)) + (weights[2] * (area-min_area)/(max_area-min_area));
-        RelevantLogger.log("image: "+this.getUrl().toString()+"score :"+String.valueOf(this.score));
     }
 
 
