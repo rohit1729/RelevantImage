@@ -53,6 +53,7 @@ public class FindRelevant {
         RelevantLogger.log("All files downloaded");
         if (bw != null) {
             try {
+                writeHeaderFooter(bw,false);
                 bw.close();
             }catch (IOException e){
                 e.printStackTrace();
@@ -65,15 +66,34 @@ public class FindRelevant {
     private static void WriteToFile(int start, int end){
         try {
             if (start == end) return;
-            if (bw == null) bw = new BufferedWriter(new FileWriter("img_url.txt"));
+            if (bw == null) bw = new BufferedWriter(new FileWriter("img_url.html"));
+            if (start == 0) writeHeaderFooter(bw,true);
             for (int i=start; i <= end-1; ++i){
                 UrlImagePair pair = relevantImageUrls.get(i);
-                bw.write(pair.getUrl()+","+pair.getImageUrl());
-                bw.newLine();
+                bw.write("<a href="+pair.getUrl()+">"+pair.getUrl()+"</a>");
+                bw.write("</br>");
+                bw.write("<img src="+pair.getImageUrl()+"></img");
+                bw.write("</br> </br> </br>");
             }
             bw.flush();
         }catch (IOException e){
             e.printStackTrace();
+
+        }
+    }
+
+    public static void writeHeaderFooter(BufferedWriter bw, Boolean header){
+        try{
+            if (header){
+                bw.write("<HTML>");
+                bw.newLine();
+                bw.write("<Body>");
+            }else {
+                bw.write("</Body>");
+                bw.newLine();
+                bw.write("</HTML>");
+            }
+        }catch (IOException e){
 
         }
     }
