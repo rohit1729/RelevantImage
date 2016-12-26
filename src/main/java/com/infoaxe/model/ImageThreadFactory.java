@@ -13,13 +13,11 @@ public class ImageThreadFactory implements ThreadFactory {
         thread.setUncaughtExceptionHandler(new Thread.UncaughtExceptionHandler() {
             @Override
             public void uncaughtException(Thread t, Throwable e) {
-                RelevantLogger.unhandledException("Thread unhandled exception thrown");
-                if (t.getName().equalsIgnoreCase("image_thread")){
-                    WebDocument document = ((RelevantThread) t).getDocument();
-                    int img_done = document.imageTried.incrementAndGet();
-                    if (img_done == document.getImages().size()){
-                        FindRelevant.imageDownloadExecutor.submit(new Analyzer(document));
-                    }
+                RelevantLogger.unhandledException("Image thread unhandled exception thrown");
+                WebDocument document = ((RelevantThread) t).getDocument();
+                int img_done = document.imageTried.incrementAndGet();
+                if (img_done == document.getImages().size()){
+                    FindRelevant.imageDownloadExecutor.submit(new Analyzer(document));
                 }
             }
         });

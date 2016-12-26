@@ -15,11 +15,10 @@ public class DocumentThreadFactory implements ThreadFactory {
         thread.setUncaughtExceptionHandler(new Thread.UncaughtExceptionHandler() {
             @Override
             public void uncaughtException(Thread t, Throwable e) {
-                RelevantLogger.unhandledException("Thread unhandled exception thrown");
-               if(t.getName().equalsIgnoreCase("document_thread")) {
-                    WebDocument document = ((RelevantThread) t).getDocument();
-                    FindRelevant.relevantImageUrls.add(new UrlImagePair(document.getUrl().toString(),"None, thread exception"));
-               }
+                RelevantLogger.unhandledException("Document thread unhandled exception thrown");
+                WebDocument document = ((RelevantThread) t).getDocument();
+                FindRelevant.relevantImageUrls.add(new UrlImagePair(document.getUrl().toString(),"None, thread exception"));
+
             }
         });
         return thread;
