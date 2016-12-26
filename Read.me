@@ -1,0 +1,14 @@
+This project extracts relevent image for an URL
+  * Takes list of urls in urls.txt as input
+  * Fetches html from respective url , retries 3 times
+  * Parse html via JSOUP to extract image tags
+  * Parse img tag style to get width and height, to avoid downloading
+  * Download image and set height and width (if height and width not in style)
+  * Drops image of size <= 30 (mostly logos)
+  * Find image with max score (weighted average of image squaredness, area, height from top)
+
+
+Possible imporvements:
+  * Method does not perform correclty for urls where dom gets heavly manipulated by JS. Initial DOM is mostly empty and acts as a placeholder in which content gets injected by JS
+  * Height from top is implicit here and is calculated as distance from root element to current element in DOMTree
+  * Extracting relevant content and calculating distance of image from the content can also boost performance
