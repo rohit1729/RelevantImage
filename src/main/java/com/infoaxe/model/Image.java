@@ -123,4 +123,8 @@ public class Image implements Comparable<Image>{
         if (this.score > otherImage.score) return -1;
         return 1;
     }
+
+    public float getScore() {
+        return score;
+    }
 }

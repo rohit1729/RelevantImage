@@ -41,11 +41,8 @@ private int min_area;
                     this.min_area = image.getArea();
                 }
             }
-            for (Image i : document.getImages()){
-                i.setScore(this.max_area,this.max_depth,this.min_depth,this.min_area);
-            }
-            Collections.sort(document.getImages());
-            document.setRelevantImage(document.getImages().get(0).getUrl().toString());
+            Image mostRelevantImage = mostRelevantImage();
+            document.setRelevantImage(mostRelevantImage.getUrl().toString());
             UrlImagePair urlImagePair  = new UrlImagePair(document.getUrl().toString(),document.getRelevantImageUrl());
             FindRelevant.relevantImageUrls.add(urlImagePair);
             RelevantLogger.analyzerFinished(document.getUrl().toString());
@@ -61,6 +58,24 @@ private int min_area;
         this.max_depth = depth;
         this.min_depth= depth;
         this.max_area = area;
+    }
+
+    public Image mostRelevantImage(){
+        float max_score = -1.0f;
+        Image mostRelevantImage = null;
+        for (Image i : document.getImages()){
+            i.setScore(this.max_area,this.max_depth,this.min_depth,this.min_area);
+            if (max_score == -1.0f) {
+                max_score = i.getScore();
+                mostRelevantImage = i;
+            }else {
+                if (i.getScore() > max_score){
+                    max_score = i.getScore();
+                    mostRelevantImage = i;
+                }
+            }
+        }
+        return mostRelevantImage;
     }
 
 }
