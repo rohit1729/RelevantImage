@@ -4,8 +4,6 @@ import com.infoaxe.model.Image;
 import com.infoaxe.model.RelevantLogger;
 import com.infoaxe.model.UrlImagePair;
 import com.infoaxe.model.WebDocument;
-import com.sun.tools.javac.util.Pair;
-
 import java.util.Collections;
 import java.util.concurrent.Callable;
 

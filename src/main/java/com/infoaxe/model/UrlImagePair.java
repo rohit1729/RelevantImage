@@ -1,7 +1,4 @@
 package com.infoaxe.model;
-
-import com.sun.tools.javac.util.Pair;
-
 /**
  * Created by rohitgupta on 12/25/16.
  */

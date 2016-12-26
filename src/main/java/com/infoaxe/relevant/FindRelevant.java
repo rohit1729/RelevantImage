@@ -3,7 +3,6 @@ import com.infoaxe.model.RelevantLogger;
 import com.infoaxe.model.UrlImagePair;
 import com.infoaxe.model.WebDocument;
 import com.infoaxe.network.DocumentGrabber;
-import com.sun.tools.javac.util.Pair;
 import org.apache.commons.validator.routines.UrlValidator;
 
 import java.io.*;
@@ -12,8 +11,6 @@ import java.net.URL;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.*;
-import java.util.concurrent.atomic.AtomicInteger;
-import java.util.logging.Logger;
 
 public class FindRelevant {
     private static String[] schemes = {"http","https"};
@@ -29,8 +26,8 @@ public class FindRelevant {
     public static void main(String[] args)
     {
         ParseUrlFile();
-        threadPoolExecuter = new ThreadPoolExecutor(5,8,1000, TimeUnit.MILLISECONDS,new LinkedBlockingDeque<>());
-        imageDownloadExecutor = new ThreadPoolExecutor(10,15,1000,TimeUnit.MILLISECONDS, new LinkedBlockingDeque<>());
+        threadPoolExecuter = new ThreadPoolExecutor(5,8,1000, TimeUnit.MILLISECONDS,new LinkedBlockingQueue<Runnable>());
+        imageDownloadExecutor = new ThreadPoolExecutor(10,15,1000,TimeUnit.MILLISECONDS, new LinkedBlockingQueue<Runnable>());
         for (String url : urls){
             try {
                 WebDocument webDocument = new WebDocument(new URL(url));

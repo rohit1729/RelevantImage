@@ -6,7 +6,6 @@ import com.infoaxe.model.UrlImagePair;
 import com.infoaxe.model.WebDocument;
 import com.infoaxe.relevant.Analyzer;
 import com.infoaxe.relevant.FindRelevant;
-import com.sun.tools.javac.util.Pair;
 import org.jsoup.Connection;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -14,9 +13,6 @@ import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import java.io.IOException;
-import java.net.MalformedURLException;
-import java.net.SocketTimeoutException;
-import java.net.URL;
 import java.util.concurrent.Callable;
 
 /**
