@@ -4,7 +4,7 @@ package com.infoaxe.model;
  * Created by rohitgupta on 12/27/16.
  */
 public class RelevantThread extends Thread{
-    private WebDocument document;
+    private volatile WebDocument document;
 
     public  RelevantThread(Runnable r, String name){
         super(r,name);
